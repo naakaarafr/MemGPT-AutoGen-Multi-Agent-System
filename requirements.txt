@@ -1,0 +1,20 @@
+# Core dependencies
+pyautogen>=0.2.0
+memgpt>=0.3.0
+python-dotenv>=1.0.0
+
+# Optional dependencies for enhanced functionality
+docker>=6.0.0
+openai>=1.0.0
+google-generativeai>=0.3.0
+
+# System dependencies
+psutil>=5.9.0
+requests>=2.31.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
